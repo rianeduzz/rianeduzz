@@ -16,27 +16,21 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h1 align="center">Olá, eu sou o Rian</h1>
 
-###
+#
 
-<h1 align="center">Olá eu sou o Rian</h1>
+<h3 align="left">👩‍💻 Venha me conhecer</h3>
 
 ###
 
-<h3 align="left">👩‍💻 Venha me conheçer</h3>
+<p align="left">Eu sou o Rian, estudante de **Desenvolvimento de Sistemas** no **SESI Caçapava** e no **Senai**.<br><br>- 🔭 Atualmente estou aprendendo **desenvolvimento de sistemas** e **marketing e vendas**.<br>- 📚 Estou me aprofundando em **programação, bancos de dados, e metodologias ágeis**.<br>- ⚡ No meu tempo livre, gosto de acompanhar as **tendências da moda**, me divertir no **mundo dos games**, e **ouvir música**.</p>
+
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -54,13 +48,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Meus Status:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
